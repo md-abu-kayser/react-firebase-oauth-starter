@@ -91,7 +91,7 @@ git clone https://github.com/md-abu-kayser/react-firebase-oauth-starter.git
 
 ---
 
-### Contact and Maintainer
+### Contact & Maintainer
 
 - **Name:** Md Abu Kayser - Full-Stack Engineer
 - **Project:** _react-firebase-oauth-starter_
