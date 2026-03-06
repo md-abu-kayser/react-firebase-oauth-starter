@@ -37,6 +37,23 @@
 
 [![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)](https://vite.dev/)
 
+## Plain docs links
+
+- HTML (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- CSS (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Tailwind CSS docs: [https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
+- JavaScript (MDN) docs: [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- ECMAScript (spec, ECMA-262) docs: [https://www.ecma-international.org/publications-and-standards/standards/ecma-262/](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+- TypeScript docs: [https://www.typescriptlang.org/docs/](https://www.typescriptlang.org/docs/)
+- Node.js docs: [https://nodejs.org/](https://nodejs.org/)
+- React docs: [https://react.dev/](https://react.dev/)
+- Firebase docs: [https://firebase.google.com/docs](https://firebase.google.com/docs)
+- ESLint docs: [https://eslint.org/docs/latest/](https://eslint.org/docs/latest/)
+- Prettier docs: [https://prettier.io/docs/](https://prettier.io/docs/)
+- Vite docs: [https://vite.dev/](https://vite.dev/)
+
+---
+
 A minimal, production-ready demo that shows how to integrate Firebase Authentication (Google, GitHub, Microsoft, Twitter) into a React + TypeScript application scaffolded with Vite and styled with TailwindCSS. This repository is designed to be a clear reference implementation for OAuth sign-in flows and secure setup practices.
 
 ## Highlights
