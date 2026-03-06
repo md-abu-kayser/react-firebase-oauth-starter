@@ -34,13 +34,13 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kawser420/google-gmail-github-X-auth.git"
+    "url": "git+https://github.com/md-abu-kayser/react-firebase-oauth-starter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kawser420/google-gmail-github-X-auth/issues"
+    "url": "https://github.com/md-abu-kayser/react-firebase-oauth-starter/issues"
   },
-  "homepage": "https://github.com/Kawser420/google-gmail-github-X-auth#readme"
+  "homepage": "https://github.com/md-abu-kayser/react-firebase-oauth-starter#readme"
 }
